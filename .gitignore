@@ -1,0 +1,4 @@
+.env
+dest/
+node_modules/
+.vscode/
